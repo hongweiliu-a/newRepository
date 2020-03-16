@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # newRepository
 
 [![CI Status](https://img.shields.io/travis/hongweiliu-a/newRepository.svg?style=flat)](https://travis-ci.org/hongweiliu-a/newRepository)
@@ -27,3 +28,7 @@ hongweiliu-a, hongwei.liu@shopee.com
 ## License
 
 newRepository is available under the MIT license. See the LICENSE file for more info.
+=======
+# podFram
+test
+>>>>>>> b3862df1d7cf9d62038463032adb951dd23d8137
