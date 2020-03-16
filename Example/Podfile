@@ -1,0 +1,6 @@
+use_frameworks!
+target 'newRepository_Tests' do
+  pod 'newRepository', :path => '../'
+  
+  
+end
